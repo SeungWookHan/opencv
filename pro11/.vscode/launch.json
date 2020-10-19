@@ -1,0 +1,18 @@
+// launch.json
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "(lldb) Debugger",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "build/Pro6",
+            "args": [],
+            "stopAtEntry": true,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": true,
+            "MIMode": "lldb"
+        }
+    ]
+}
