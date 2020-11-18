@@ -1,3 +1,0 @@
-/Users/Han/programming/opencv/pro2/build/CMakeFiles/rebuild_cache.dir
-/Users/Han/programming/opencv/pro2/build/CMakeFiles/edit_cache.dir
-/Users/Han/programming/opencv/pro2/build/CMakeFiles/simple-demo.dir
